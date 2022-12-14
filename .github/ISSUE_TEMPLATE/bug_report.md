@@ -2,8 +2,8 @@
 name: Bug report
 about: Create a report to help us improve
 title: ''
-labels: ''
-assignees: ''
+labels: bug
+assignees: lijinhong11
 
 ---
 
@@ -26,6 +26,7 @@ If applicable, add screenshots to help explain your problem.
 **Desktop (please complete the following information):**
  - Java: [e.g. 17]
 - Minecraft: [e.g. 1.19.2]
+- Mod loader: [e.g. Fabric]
 
 **Additional context**
 Add any other context about the problem here.

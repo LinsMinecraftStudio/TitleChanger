@@ -1,6 +1,7 @@
 name: Bug report
 description: Report titlechanger bugs.
 labels: [ "bug" ]
+assignees: ["lijinhong11"]
 body:
   - type: textarea
     attributes:
